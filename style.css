@@ -1,0 +1,10 @@
+#slider {
+    height: 60vh;
+    background-image: url(abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg);
+    background-size: cover;
+}
+
+.position-absolute {
+    top: 50%;
+    transform: translateY(-50%);
+}
